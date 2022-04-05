@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "https://github.com/timmit-nl/bootstrap-file-input",
-  "author": "Gregory Pike",
+  "author": "Original by Gregory Pike adapted by TiMMiT",
   "license": "ISC"
 }
